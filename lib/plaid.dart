@@ -44,7 +44,7 @@ class _WebViewPage {
         '?key=' +
         config.plaidPublicKey +
         '&isWebview=true' +
-        '&product=auth,transactions,assets' +
+        '&product=auth,transactions' +
         '&isMobile=true' +
         '&apiVersion=v2' +
         '&selectAccount=true' +
